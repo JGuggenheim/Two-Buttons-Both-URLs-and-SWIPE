@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		43B81C6A1EF36387009972A1 /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B81C691EF36387009972A1 /* ThirdVC.swift */; };
+		A9FA9CA11F043AFA00EC7A82 /* UNUSEDCLASS.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9FA9CA01F043AF900EC7A82 /* UNUSEDCLASS.swift */; };
 		CB67B61F1F02FE6000CC5917 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB67B61E1F02FE6000CC5917 /* DataManager.swift */; };
 		CB92D2DD1EF30186007DF6A7 /* SwipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB92D2DC1EF30186007DF6A7 /* SwipeVC.swift */; };
 		CB9D46A21EF32E1B00A9A0CB /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9D46981EF32E1B00A9A0CB /* UIButtonX.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		43B81C691EF36387009972A1 /* ThirdVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
+		A9FA9CA01F043AF900EC7A82 /* UNUSEDCLASS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UNUSEDCLASS.swift; sourceTree = "<group>"; };
 		CB67B61E1F02FE6000CC5917 /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		CB92D2DC1EF30186007DF6A7 /* SwipeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeVC.swift; sourceTree = "<group>"; };
 		CB9D46981EF32E1B00A9A0CB /* UIButtonX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				CBB4456E1EF2EDB2005F436A /* LaunchScreen.storyboard */,
 				CBB445711EF2EDB2005F436A /* Info.plist */,
 				CBBFF4381EFDC57A005C1EB0 /* EventSetterVC.swift */,
+				A9FA9CA01F043AF900EC7A82 /* UNUSEDCLASS.swift */,
 				CB92D2DC1EF30186007DF6A7 /* SwipeVC.swift */,
 				43B81C691EF36387009972A1 /* ThirdVC.swift */,
 				CBACB7611EFAF32800D2D68B /* resultVC.swift */,
@@ -192,6 +195,7 @@
 				CB9D46A81EF32E1B00A9A0CB /* UIViewControllerX.swift in Sources */,
 				CB9D46A61EF32E1B00A9A0CB /* UITextFieldX.swift in Sources */,
 				43B81C6A1EF36387009972A1 /* ThirdVC.swift in Sources */,
+				A9FA9CA11F043AFA00EC7A82 /* UNUSEDCLASS.swift in Sources */,
 				CB9D46A51EF32E1B00A9A0CB /* UISliderX.swift in Sources */,
 				CBB445661EF2EDB2005F436A /* AppDelegate.swift in Sources */,
 				CBACB7621EFAF32800D2D68B /* resultVC.swift in Sources */,
